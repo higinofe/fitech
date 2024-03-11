@@ -1,6 +1,6 @@
 @extends('app.app')
 
-@section('title', 'Dashboard')
+@section('title', 'Pagar e Receber')
 
 @section('content')
 

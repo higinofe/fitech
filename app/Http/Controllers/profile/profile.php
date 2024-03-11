@@ -1,15 +1,14 @@
 <?php
 
-namespace App\Http\Controllers\register;
+namespace App\Http\Controllers\profile;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class App extends Controller
+class profile extends Controller
 {
     public function index()
     {
-        return view('register.records');
-
+        return view('profile.Pro');
     }
 }
